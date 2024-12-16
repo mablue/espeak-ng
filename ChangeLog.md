@@ -10,7 +10,7 @@ The espeak-ng project is a fork of the espeak project.
 ### 1.53
 
 new languages:
-*  ps (Pashto) -- Masoud Azizi
+*  ps (Pashto) -- Masoud Azizi (@mablue)
 
 ### 1.52.0
 
